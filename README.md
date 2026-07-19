@@ -29,6 +29,7 @@
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jia-Chinnu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jia-Chinnu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Brainteaser
 |  |
 | ------- |
