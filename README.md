@@ -29,6 +29,7 @@
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jia-Chinnu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
@@ -67,6 +68,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Jia-Chinnu/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -155,6 +157,7 @@
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
 | ------- |
