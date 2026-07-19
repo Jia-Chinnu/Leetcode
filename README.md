@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jia-Chinnu/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
