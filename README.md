@@ -89,6 +89,7 @@
 | [0070-climbing-stairs](https://github.com/Jia-Chinnu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Jia-Chinnu/Leetcode/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/Jia-Chinnu/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jia-Chinnu/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Jia-Chinnu/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
