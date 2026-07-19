@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Jia-Chinnu/Leetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Jia-Chinnu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jia-Chinnu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
