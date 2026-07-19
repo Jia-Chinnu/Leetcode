@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jia-Chinnu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jia-Chinnu/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jia-Chinnu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -45,6 +46,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jia-Chinnu/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
@@ -123,6 +126,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -134,4 +138,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
