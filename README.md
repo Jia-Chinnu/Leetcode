@@ -43,6 +43,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jia-Chinnu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
+| [0319-bulb-switcher](https://github.com/Jia-Chinnu/Leetcode/tree/master/0319-bulb-switcher) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Jia-Chinnu/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
