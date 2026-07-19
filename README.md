@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jia-Chinnu/Leetcode/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
 ## Memoization
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Jia-Chinnu/Leetcode/tree/master/0319-bulb-switcher) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
