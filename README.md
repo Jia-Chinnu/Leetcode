@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jia-Chinnu/Leetcode/tree/master/0198-house-robber) |
+| [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
