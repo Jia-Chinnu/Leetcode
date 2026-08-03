@@ -1,34 +1,35 @@
 class Solution:
-    def sortedSquares(self, nums):
-        neg = []
-        pos = []
-
-        for x in nums:
-            if x < 0:
-                neg.append(x * x)
+    def sortedSquares(self, nums: List[int]) -> List[int]:
+        ans=[]
+        res=[]
+        for i in nums:
+            if i<0:
+                res.append(i)
             else:
-                pos.append(x * x)
-
-        neg.reverse()
-
-        ans = []
-        i = 0
-        j = 0
-
-        while i < len(neg) and j < len(pos):
-            if neg[i] < pos[j]:
-                ans.append(neg[i])
-                i += 1
+                ans.append(i)
+        res.reverse()
+        for i in range(len(ans)):
+            ans[i]=ans[i]*ans[i]
+        for i in range(len(res)):
+            res[i]=res[i]*res[i]
+        i=0
+        j=0
+        f=[]
+        while i<len(ans) and j<len(res):
+            if ans[i]<=res[j]:
+                f.append(ans[i])
+                i+=1
             else:
-                ans.append(pos[j])
-                j += 1
+                f.append(res[j])
+                j+=1
+        while(i<len(ans)):
+                f.append(ans[i])
+                i+=1
+        while(j<len(res)):
+                f.append(res[j])
+                j+=1
+        for k in range(len(res)+len(ans)):
+            nums[k]=f[k]
+        return nums
 
-        while i < len(neg):
-            ans.append(neg[i])
-            i += 1
 
-        while j < len(pos):
-            ans.append(pos[j])
-            j += 1
-
-        return ans    
