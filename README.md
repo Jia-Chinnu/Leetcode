@@ -69,6 +69,7 @@
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -90,6 +91,7 @@
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0344-reverse-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Jia-Chinnu/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -105,6 +107,7 @@
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -153,6 +156,7 @@
 | [0055-jump-game](https://github.com/Jia-Chinnu/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -199,5 +203,10 @@
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
