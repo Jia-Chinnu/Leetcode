@@ -182,4 +182,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jia-Chinnu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jia-Chinnu/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jia-Chinnu/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
