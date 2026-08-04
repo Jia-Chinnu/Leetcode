@@ -28,6 +28,7 @@
 | [0344-reverse-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jia-Chinnu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -89,6 +90,7 @@
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Jia-Chinnu/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -136,6 +138,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jia-Chinnu/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jia-Chinnu/Leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
