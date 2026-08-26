@@ -14,6 +14,7 @@
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jia-Chinnu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -29,6 +30,7 @@
 | [0344-reverse-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Jia-Chinnu/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -40,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jia-Chinnu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Jia-Chinnu/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Array
