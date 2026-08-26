@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jia-Chinnu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jia-Chinnu/Leetcode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Jia-Chinnu/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Jia-Chinnu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/Jia-Chinnu/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jia-Chinnu/Leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Jia-Chinnu/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Jia-Chinnu/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jia-Chinnu/Leetcode/tree/master/0344-reverse-string) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jia-Chinnu/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Jia-Chinnu/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
