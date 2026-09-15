@@ -1,23 +1,17 @@
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        n = len(nums)
-        k %= n  # Important: if k is larger than n, we only need the remainder
-        
-        # Helper function to reverse a section of the array
-        def reverse(start, end):
-            while start < end:
-                nums[start], nums[end] = nums[end], nums[start]
-                start += 1
-                end -= 1
-        
-        # 1. Reverse the whole thing
-        reverse(0, n - 1)
-        
-        # 2. Reverse the first k elements
-        reverse(0, k - 1)
-        
-        # 3. Reverse the rest
-        reverse(k, n - 1)
+    def rotate(self, arr: list[int], k: int) -> None:
+        n=len(arr)
+        k=k%n
+        left=0
+        right=n-1
+        def reverse(left,right):
+           
+            while(left<right):
+                arr[left],arr[right]=arr[right],arr[left]
+                left+=1
+                right-=1
+        reverse(0,n-1)
+        reverse(0,k-1)
+        reverse(k,n-1)
+    
+        return arr
