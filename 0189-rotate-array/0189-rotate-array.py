@@ -2,8 +2,7 @@ class Solution:
     def rotate(self, arr: list[int], k: int) -> None:
         n=len(arr)
         k=k%n
-        left=0
-        right=n-1
+       
         def reverse(left,right):
            
             while(left<right):
