@@ -78,6 +78,7 @@
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/Jia-Chinnu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Jia-Chinnu/Leetcode/tree/master/0904-fruit-into-baskets) |
