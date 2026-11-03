@@ -84,6 +84,7 @@
 | [0904-fruit-into-baskets](https://github.com/Jia-Chinnu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jia-Chinnu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jia-Chinnu/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jia-Chinnu/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Jia-Chinnu/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
