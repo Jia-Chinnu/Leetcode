@@ -1,10 +1,9 @@
 class Solution:
     def moveZeroes(self, arr: list[int]) -> None:
-       left=0
-       right=0
-       while(right<len(arr)):
-            if arr[right]!=0:
-                arr[left],arr[right]=arr[right],arr[left]
-                left+=1
-            right+=1
-       return arr
+       i=0
+       for j in range(0,len(arr)):
+        if arr[j]!=0:
+            arr[i],arr[j]=arr[j],arr[i]
+            i+=1
+        
+        
