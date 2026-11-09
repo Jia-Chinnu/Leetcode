@@ -17,6 +17,7 @@
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/Jia-Chinnu/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Jia-Chinnu/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -80,6 +81,7 @@
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Jia-Chinnu/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -124,6 +126,7 @@
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
