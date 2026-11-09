@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Jia-Chinnu/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Jia-Chinnu/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jia-Chinnu/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -75,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jia-Chinnu/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jia-Chinnu/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Jia-Chinnu/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Jia-Chinnu/Leetcode/tree/master/0322-coin-change) |
@@ -120,6 +122,7 @@
 | [0169-majority-element](https://github.com/Jia-Chinnu/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jia-Chinnu/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jia-Chinnu/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Jia-Chinnu/Leetcode/tree/master/0274-h-index) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -131,6 +134,7 @@
 | [0069-sqrtx](https://github.com/Jia-Chinnu/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jia-Chinnu/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jia-Chinnu/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Jia-Chinnu/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Jia-Chinnu/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
@@ -193,6 +197,7 @@
 | [0069-sqrtx](https://github.com/Jia-Chinnu/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jia-Chinnu/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jia-Chinnu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Jia-Chinnu/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Jia-Chinnu/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jia-Chinnu/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -225,4 +230,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jia-Chinnu/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Jia-Chinnu/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
